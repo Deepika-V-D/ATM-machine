@@ -38,6 +38,12 @@ for i in range(1,5):
              #new_pin == pin
              cor_pin = new_pin # cor_pin = 1
              print(" pin change successfully")
+        elif choice==5:
+             print("thank you for using ATM")
+             print("please collect your card")
+             break
+        else:
+            print("invalid choice")
              
              
     else:
